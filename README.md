@@ -1,4 +1,4 @@
-## **🚀Free AI-Powered Office Assistant👨‍🎓📚**
+## **🚀AI Assistants for Daily Tasks👨‍🎓📚**
 <p align="center">
 <img src="https://github.com/dr-mushtaq/free-AI-powered-office-assistant/blob/main/DALL%C2%B7E%202025-03-15%2007.28.51%20-%20A%20modern%20and%20sleek%20technology%20banner%20for%20an%20AI-powered%20office%20assistant.%20The%20image%20should%20feature%20a%20futuristic%20interface%20with%20holographic%20screens%20disp.webp"></a>
 </p>
@@ -180,7 +180,8 @@ Each student (or group) can be assigned specific modules of the project. For exa
 
 | Topic Title | Blog | Video |
 |---|---|---|
-| [**1-Building **](https://docs.google.com/document/d/1YfLZxg0mNAuQhWTqDrDkewkVgVnhIAoS/edit) | [**Dataset**](https://github.com/hussain0048/Projects-/blob/master/intentsnew%20(6).json) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Model_Training_2.ipynb) |-|
+| [**✅1-Building **](https://docs.google.com/document/d/1YfLZxg0mNAuQhWTqDrDkewkVgVnhIAoS/edit) | [**Dataset**](https://github.com/hussain0048/Projects-/blob/master/intentsnew%20(6).json) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Model_Training_2.ipynb) |-|
+| [**✅1-How to Build and Schedule Local AI Assistants for Daily Tasks**](https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/?fbclid=IwY2xjawVe0apleHRuA2FlbQIxMABwZG9mAWJyaWQRMVYwSHY3SUIwYUFWS2pHZndzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfqOJIIkGOFToAj9UIFNSM4YS2lXrGx5xnNWLDD-N7IMP3a4aQWYezBMopFwc_aem_HHcH3xAJvRvpmOHzJX1fXg) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Model_Training_2.ipynb) |-|
 
 ##  📚Chapter: 2  **Machine Learning**
 
